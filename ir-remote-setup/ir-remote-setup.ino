@@ -23,8 +23,6 @@ uint64_t decCode;  // Create variable to store the code we received from the rem
 
 
 
-
-
 void setup()  // Start of setup - Runs once when we reset or power the board
 {
   
